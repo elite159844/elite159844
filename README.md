@@ -5,7 +5,7 @@
     </p>
         </p>
     <p align="center">
-      Below is a image of my blog website that i created using an "Astro Paper" theme.
+      Below is a image of my blog website that i created using an "𝗔𝘀𝘁𝗿𝗼 𝗣𝗮𝗽𝗲𝗿" theme.
         <hr>
     <img src="https://github.com/elite159844/elite159844/blob/main/tommie%20blog.PNG?raw=true">
   
