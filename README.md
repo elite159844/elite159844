@@ -3,8 +3,8 @@
     </b> A 17 year old who is interested in computers and coding. I like playing video games and making blogs on certain topics.                              
     <p align="center">
     </p>
-    ![](https://raw.githubusercontent.com/elite159844/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-    ![](https://raw.githubusercontent.com/elite159844/github-stats/master/generated/overview.svg#gh-light-mode-only)
+   ![](https://raw.githubusercontent.com/elite159844/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+   ![](https://raw.githubusercontent.com/elite159844/github-stats/master/generated/languages.svg#gh-light-mode-only)
         </p>
     <p align="center">
       Below is a image of my blog website that i created using an "𝗔𝘀𝘁𝗿𝗼 𝗣𝗮𝗽𝗲𝗿" theme.
