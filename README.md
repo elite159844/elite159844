@@ -2,9 +2,6 @@
     <p align="center">
     </b> A 17 year old who is interested in computers and coding. I like playing video games and making blogs on certain topics.                              
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elite159844&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="elite159844's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite159844&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="elite159844's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elite159844&theme=dark&hide_border=true" alt="elite159844's GitHub Stats" />
     </p>
         </p>
     <p align="center">
