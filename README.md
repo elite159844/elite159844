@@ -1,10 +1,10 @@
 <h1 align="center">Tommie</h1>
     <p align="center">
     </b> A 17 year old who is interested in computers and coding. I like playing video games and making blogs on certain topics.                              
-    <p align="center">
     </p>
-   <img src="https://raw.githubusercontent.com/elite159844/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-   <img src="https://raw.githubusercontent.com/elite159844/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+    <p align="center">
+   <img src="https://github.com/elite159844/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+   <img src="https://github.com/elite159844/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
         </p>
     <p align="center">
       Below is a image of my blog website that i created using an "𝗔𝘀𝘁𝗿𝗼 𝗣𝗮𝗽𝗲𝗿" theme.
