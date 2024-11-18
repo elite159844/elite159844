@@ -16,8 +16,6 @@
         <hr>
     <img src="https://github.com/elite159844/elite159844/blob/main/tommiewebsites.png?raw=true">
   </p>
-        </p>
-    <p align="center">
-    ⌨️ 𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://eliteblogwebsite.pages.dev/
+   
     
 
