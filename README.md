@@ -13,11 +13,7 @@
   </p>
         </p>
     <p align="center">
-    🖥️ 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗦𝗲𝗿𝘃𝗲𝗿: https://discord.gg/fwH32wC7XJ
-        <hr>
- </p>
-        </p>
-     <p align="center">
+    🖥️ 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗦𝗲𝗿𝘃𝗲𝗿: https://discord.gg/fwH32wC7XJ 
     ⌨️ 𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://eliteblogwebsite.pages.dev/
-        <hr>
+    
 
