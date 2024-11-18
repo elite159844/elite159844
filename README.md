@@ -7,7 +7,7 @@
    <img src="https://github.com/elite159844/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
         </p>
     <p align="center">
-      Below are images of my 2 websites. 
+      Below are images of my 2 websites that i made.
         <hr>
     <img src="https://github.com/elite159844/elite159844/blob/main/tommiewebsites.png?raw=true">
   </p>
