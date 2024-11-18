@@ -7,9 +7,9 @@
    <img src="https://github.com/elite159844/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
         </p>
     <p align="center">
-      Below is a image of my blog website that i created using an "𝗔𝘀𝘁𝗿𝗼 𝗣𝗮𝗽𝗲𝗿" theme.
+      Below is a image of my 2 websites. 
         <hr>
-    <img src="https://github.com/elite159844/elite159844/blob/main/tommie%20blog.PNG?raw=true">
+    <img src="https://github.com/elite159844/elite159844/blob/main/tommiewebsites.png?raw=true">
   </p>
         </p>
     <p align="center">
