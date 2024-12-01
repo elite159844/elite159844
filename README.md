@@ -10,7 +10,7 @@
       Below are my websites that i created.
         <hr>
          <p align="center">
-        🖥️𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieblogwebsite.pages.dev/
+        🖥️𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieblogs.pages.dev/
         <p align="center">
         📁𝗙𝗶𝗹𝗲 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieonedrive.pages.dev/
         <hr>
