@@ -12,7 +12,7 @@
         🖥️𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieblog.vercel.app/
         <p align="center">
         <hr>
-    <img src="https://github.com/elite159844/elite159844/blob/main/myblogwebsite.png?raw=true">
+    <img src="https://github.com/elite159844/elite159844/blob/main/myblog.png?raw=true">
   </p>
    
     
