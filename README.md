@@ -7,15 +7,12 @@
    <img src="https://github.com/elite159844/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
         </p>
     <p align="center">
-      Below are my websites that i created.
         <hr>
          <p align="center">
         🖥️𝗕𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieblog.vercel.app/
         <p align="center">
-        📁𝗙𝗶𝗹𝗲 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://tommieonedrive.pages.dev/
         <hr>
     <img src="https://github.com/elite159844/elite159844/blob/main/myblogwebsite.png?raw=true">
-    <img src="https://github.com/elite159844/elite159844/blob/main/myfilehostwebsite.png?raw=true">
   </p>
    
     
